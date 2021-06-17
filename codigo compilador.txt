@@ -1,0 +1,15 @@
+inicio ;
+cadena var1 # "hola" ;
+entero var5 # 23 ;
+
+proceso ;
+si ( 23 == var5 )
+{
+ver "PROYECTO FINAL DOOES" ;
+}
+
+si ( var1 == "hola" )
+{
+ver "COMPILADORES 2019" ;
+}
+fin ;

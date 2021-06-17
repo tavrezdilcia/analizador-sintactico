@@ -1,0 +1,30 @@
+#include <iostream>
+using namespace std;
+int main() {
+
+
+
+string var1 = "hola";
+
+int var5 = 23;
+
+if ( 23 == var5 )
+
+{ 
+
+ cout << "PROYECTO FINAL DOOES" << endl;
+
+} 
+
+if ( var1 == "hola" )
+
+{ 
+
+ cout << "COMPILADORES 2019" << endl;
+
+} 
+
+
+
+return 0;
+}
